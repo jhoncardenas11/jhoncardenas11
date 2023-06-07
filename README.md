@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhoncardenas11
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on web proyects or mobile apps
 - 📫 How to reach me ...
 
