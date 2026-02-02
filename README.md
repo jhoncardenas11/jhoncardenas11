@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @jhoncardenas11
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node
-- 💞️ I’m looking to collaborate on web proyects or mobile apps
-- 📫 How to reach me jhoncardenas.11@gmail.com
+<div align="center">
 
-<!---
-jhoncardenas11/jhoncardenas11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Jhon Cárdenas
+
+### 🎨 Frontend Developer | Full Stack Capable | AI Enthusiast
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhoncardenas.11@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎯 Frontend specialist with **full stack** capabilities
+- ⚡ Building modern web experiences with **React** & **AI integration**
+- 🤖 Exploring **AI-powered applications** and intelligent interfaces
+- 🌱 Constantly learning **Node.js** and backend architectures
+- 💡 Open to collaborate on **web projects** and **mobile apps**
+
+## 💻 Core Tech Stack
+
+**Frontend** → React · JavaScript · Tailwind CSS · Vite · Zustand  
+**Backend** → Node.js · Express · API Integration  
+**AI/Tools** → AI APIs · Git · VS Code · pnpm
+
+## 📫 Let's Connect
+
+📧 **jhoncardenas.11@gmail.com**
+
+---
+
+<div align="center">
+  <i>Building the future, one component at a time ✨</i>
+</div>
