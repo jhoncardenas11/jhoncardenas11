@@ -15,7 +15,7 @@
 - 🎯 Frontend specialist with **full stack** capabilities
 - ⚡ Building modern web experiences with **React** & **AI integration**
 - 🤖 Exploring **AI-powered applications** and intelligent interfaces
-- 🌱 Constantly learning **new technologies**, Node.js, and backend architectures
+- 🌱 Constantly learning **new technologies** and deepening my existing knowledge
 - 💡 Open to collaborate on **web projects** and **mobile apps**
 
 ## 💻 Core Tech Stack
